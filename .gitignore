@@ -1,0 +1,10 @@
+node_modules
+dist
+www
+.tmp
+bower_components
+test/bower_components
+.DS_Store
+
+plugins
+!plugins/*.json

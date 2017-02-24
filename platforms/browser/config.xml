@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.fanmiles.kickerleaderboard" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>KickerLeaderboard</name>
+    <description>
+        Kicker leaderboard.
+    </description>
+    <author email="miha.erzen@fanmiles.com" href="http://fanmiles.com">
+        miha.erzen@fanmiles.com
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <preference name="BackgroundColor" value="#181818" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#181818" />
+    <preference name="StatusBarStyle" value="blackopaque" />
+</widget>
